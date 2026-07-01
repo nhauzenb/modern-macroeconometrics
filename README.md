@@ -1,6 +1,6 @@
 # Modern Macroeconometrics
 
-**Dr Niko Hauzenberger**
+**Niko Hauzenberger**
 [niko.hauzenberger@strath.ac.uk](mailto:niko.hauzenberger@strath.ac.uk)
 
 University of Strathclyde, Glasgow, UK
